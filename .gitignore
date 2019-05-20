@@ -1,0 +1,10 @@
+
+.env
+node_modules
+
+//contents of .env
+
+db_host= gtcbcmysql.cicj7lknwbam.us-east-1.rds.amazonaws.com
+db_username= gabriel
+db_password= j49E0PAc
+
